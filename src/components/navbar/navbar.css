@@ -107,11 +107,11 @@ display: none;
 
 @media screen and (max-width: 1050px){
 
-    .gpt3__navbar-menu_container{
+    .gpt3__navbar-links_container{
         display: none;
     }
 
     .gpt3__navbar-menu{
     display: flex;
 }
-}
+} 
