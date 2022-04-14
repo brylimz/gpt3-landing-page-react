@@ -101,7 +101,7 @@
  
 
 .gpt3__navbar-menu_container-links-sign{
-display: flex;
+display: none;
 
 }
 
@@ -114,4 +114,4 @@ display: flex;
     .gpt3__navbar-menu{
     display: flex;
 }
-} 
+}

@@ -26,7 +26,6 @@ const Menu = () => (
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
-  
   return (
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
@@ -42,19 +41,19 @@ const Navbar = () => {
         <button type="button"> Sign up</button>
       </div>
       <div className="gpt3__navbar-menu">
-        {toggleMenu ? (
+        {toggleMenu ? 
           <RiCloseLine
             color="#fff"
             size={27}
             onClick={() => setToggleMenu(false)}
           />
-        ) : (
+         : 
           <RiMenu3Line
             color="#fff"
             size={27}
             onClick={() => setToggleMenu(true)}
           />
-        )}
+        }
 
         {toggleMenu && (
           <div className="gpt3__navbar-menu_container scale-up-center">
