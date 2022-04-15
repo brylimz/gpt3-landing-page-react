@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gpt3-landing-page-react/static/css/main.953ec73a.css",
+    "main.js": "/gpt3-landing-page-react/static/js/main.de102e9f.js",
+    "static/media/ai.png": "/gpt3-landing-page-react/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/people.png": "/gpt3-landing-page-react/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt3-landing-page-react/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/gpt3-landing-page-react/index.html",
+    "main.953ec73a.css.map": "/gpt3-landing-page-react/static/css/main.953ec73a.css.map",
+    "main.de102e9f.js.map": "/gpt3-landing-page-react/static/js/main.de102e9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953ec73a.css",
+    "static/js/main.de102e9f.js"
+  ]
+}
