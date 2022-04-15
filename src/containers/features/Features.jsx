@@ -1,17 +1,13 @@
 import React from "react";
 import "./features.css";
-const Features = ({title, text}) => {
+
+
+const Features = () => {
   return (
-    <div className="gpt3__features-container__feature">
-      <div className="gpt3__features-container__feature-title">
-<div />
-<h1> {title} </h1>
-<div className="gpt3__features-container__feature-text" />
-{text}
+    <div>Features</div>
+  )
+}
 
-      </div>
-    </div>
-  );
-};
+export default Features
 
-export default Features;
+
