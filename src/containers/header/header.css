@@ -46,8 +46,8 @@
   line-height: 27px;
   background: var(--color-footer);
   border: 2px solid var(--color-footer);
-  border-radius: 5px 0px 0px 5px;
-  padding: 0 1rem;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
   outline: none;
   color: #fff;
 }
@@ -57,14 +57,43 @@
   width: 100%;
   min-height: 50px;
   background: #ff4820;
-  border-radius: 5px 0px 0px 5px;
-  transform: matrix(-1, 0, 0, 1, 0, 0);
-
-  font-family: "Manrope";
+  font-family: var(--font-family);
   font-style: normal;
-  font-weight: 700;
-  font-size: 20px;
+  font-weight: bold;
   line-height: 27px;
-
+  font-size: 20px;
   color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+  padding: 0 1rem;
+  border: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.gpt3__header-content__people {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.gpt3__header-content__people img {
+  width: 181.79px;
+  height: 38px;
+}
+
+.gpt3__header-content__people p {
+  margin: 0 0 0 1rem;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 38px;
+  color: #ffffff;
+  text-align: center;
+
+
 }
