@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/gpt3-landing-page-react/static/css/main.21ea9999.css",
-    "main.js": "/gpt3-landing-page-react/static/js/main.39d67404.js",
+    "main.css": "/gpt3-landing-page-react/static/css/main.a0952b86.css",
+    "main.js": "/gpt3-landing-page-react/static/js/main.4f36e70e.js",
     "static/media/ai.png": "/gpt3-landing-page-react/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/gpt3-landing-page-react/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/gpt3-landing-page-react/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/gpt3-landing-page-react/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/gpt3-landing-page-react/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/gpt3-landing-page-react/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/gpt3-landing-page-react/static/media/blog02.ab0eb367561796e91532.png",
     "static/media/people.png": "/gpt3-landing-page-react/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/gpt3-landing-page-react/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/gpt3-landing-page-react/index.html",
-    "main.21ea9999.css.map": "/gpt3-landing-page-react/static/css/main.21ea9999.css.map",
-    "main.39d67404.js.map": "/gpt3-landing-page-react/static/js/main.39d67404.js.map"
+    "main.a0952b86.css.map": "/gpt3-landing-page-react/static/css/main.a0952b86.css.map",
+    "main.4f36e70e.js.map": "/gpt3-landing-page-react/static/js/main.4f36e70e.js.map"
   },
   "entrypoints": [
-    "static/css/main.21ea9999.css",
-    "static/js/main.39d67404.js"
+    "static/css/main.a0952b86.css",
+    "static/js/main.4f36e70e.js"
   ]
 }
